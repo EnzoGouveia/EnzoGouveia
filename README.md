@@ -1,54 +1,43 @@
-<h2 align="left">Hi 👋! My name is Enzo and I'm a FullStack Developer, from Brazil.</h2>
+<h1 align="center">Hi 👋, I'm Enzo</h1>
+
+<h3 align="center">
+  FullStack Developer from Brazil 🇧🇷
+</h3>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/EnzoGouveia">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGouveia&layout=compact&theme=dracula" 
-      height="150" 
-      alt="languages graph"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoGouveia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  
+  <img src="https://streak-stats.demolab.com?user=EnzoGouveia&theme=dracula" height="150" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY0ajd1ejRpemg4bWNpcGNoYWp1Y2c5N25kZDF1dGk4eHQ5NmRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY0ajd1ejRpemg4bWNpcGNoYWp1Y2c5N25kZDF1dGk4eHQ5NmRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"/>
 
-###
+### 🚀 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,angular,mongodb,mysql,docker,git" />
 </div>
 
 ###
+
+### 📫 Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/enzo-rodrigues-gouveia-149412167/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  <a href="enz.gouveia@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+
+  <a href="mailto:enz.gouveia@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35"/>
   </a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EnzoGouveia&style=for-the-badge&color=blueviolet" />
+</div>
